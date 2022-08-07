@@ -1,0 +1,33 @@
+.calc{
+    width: 307px;
+    height: 320px;
+    background-color: grey;
+    margin-left: 500px;
+    margin-top: 58px;
+}
+
+
+#screen{
+    width: 265px;
+    height: 28px;
+    margin-left: 13px;
+    margin-top: 17px;
+}
+
+.clear_display{
+    width: 42px;
+    height: 28px;
+    margin-top: 22px;
+    margin-left: 25px;
+}
+
+.btn{
+    width: 42px;
+    height: 28px;
+    margin-top: 22px;
+    margin-left: 25px;
+}
+
+
+
+
